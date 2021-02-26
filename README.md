@@ -1,3 +1,5 @@
+![Archived](https://img.shields.io/badge/Current_Status-archived-blue?style=flat)
+
 # James call for Logo
 
 Please find below some proposals for the Apache James call for logo.
